@@ -1,0 +1,6 @@
+{
+  "name": "NGX Predictor",
+  "description": "Complete private password-protected Nigerian Stock Exchange (NGX) prediction research platform with historical simulations, technical indicators, backtesting, and paper trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
